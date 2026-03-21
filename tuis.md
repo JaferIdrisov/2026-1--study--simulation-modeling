@@ -7,12 +7,14 @@
 - <a href="https://github.com/JaferIdrisov/2026-1--study--simulation-modeling" target="_blank" rel="noopener noreferrer">Основной репозиторий</a> ↗
 - <a href="https://github.com/JaferIdrisov/2026-1--study--simulation-modeling/tree/main/labs/lab03" target="_blank" rel="noopener noreferrer">Папка лабораторной работы №3</a> ↗
 - <a href="https://github.com/JaferIdrisov/2026-1--study--simulation-modeling/releases/tag/lab03" target="_blank" rel="noopener noreferrer">Релиз lab03</a> ↗
+- <a href="https://github.com/JaferIdrisov/2026-1--study--simulation-modeling/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">CHANGELOG</a> ↗
 
 ### Gitverse
 
 - <a href="https://gitverse.ru/daidrisov/2026-1--study--simulation-modeling/content/main" target="_blank" rel="noopener noreferrer">Основной репозиторий</a> ↗
 - <a href="https://gitverse.ru/daidrisov/2026-1--study--simulation-modeling/content/main/labs/lab03" target="_blank" rel="noopener noreferrer">Папка лабораторной работы №3</a> ↗
 - <a href="https://gitverse.ru/daidrisov/2026-1--study--simulation-modeling/releases/tag/lab03" target="_blank" rel="noopener noreferrer">Релиз lab03</a> ↗
+- <a href="https://gitverse.ru/daidrisov/2026-1--study--simulation-modeling/content/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">CHANGELOG</a> ↗
 
 ---
 
