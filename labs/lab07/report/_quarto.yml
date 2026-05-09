@@ -32,6 +32,8 @@ format:
     toc: true
     number-sections: true
     toc-depth: 2
+    lot: true
+    code-overflow: wrap
   ### Pdf output format
   pdf:
     # pdf-engine: xelatex
@@ -41,6 +43,7 @@ format:
     toc: true
     number-sections: true
     colorlinks: false
+    code-overflow: wrap
     toc-depth: 2
     lof: true # List of figures
     lot: true # List of tables

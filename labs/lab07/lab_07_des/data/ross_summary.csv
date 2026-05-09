@@ -1,0 +1,2 @@
+N,S,repairers,runs,mean_crash_time,std_crash_time,analytic_crash_time,mean_repair_queue,repairer_utilization
+10,3,1,300,11996.188992533534,12450.171867724228,12339.99999999653,0.012384021280469585,0.10174982152767123
